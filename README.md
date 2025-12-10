@@ -1,4 +1,4 @@
-# 🍽️ Delizioso – Restaurant Landing Page  
+# 🍽️ Delizioso – Restaurant Landing Page 🍕
 
 A modern, elegant, and responsive **restaurant landing page** designed to showcase delicious dishes, customer reviews, and essential restaurant details. Built with a minimal yet engaging UI that highlights the menu, story, and contact options for a smooth dining experience.  
 
