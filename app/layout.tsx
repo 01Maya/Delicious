@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Delizioso - Fresh & Delicious for Every Bite",
+  title: "Delizioso - Fresh & Delicious for Every Bite🍕",
   description:
     "Experience authentic flavors with our fresh, handcrafted dishes made with love and premium ingredients.",
 }
