@@ -4,7 +4,7 @@ A modern, elegant, and responsive **restaurant landing page** designed to showca
 
 ---
 
-## 🚀 Features  
+## 🚀 Features  ✨
 
 - **Hero Section** – Eye-catching food imagery with CTA buttons (*Order Now, View Menu*).  
 - **Testimonials Section** – Customer reviews with carousel effect.  
