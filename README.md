@@ -26,7 +26,7 @@ A modern, elegant, and responsive **restaurant landing page** designed to showca
 
 ---
 
-## 📸 Preview
+## 📸 Preview 🔗
 https://delicious-rosy.vercel.app
 
 ---
