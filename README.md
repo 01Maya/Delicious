@@ -17,7 +17,7 @@ A modern, elegant, and responsive **restaurant landing page** designed to showca
 
 ---
 
-## 🛠️ Tech Stack  ⚡️
+## 🛠️ Tech Stack  🗂️
 
 - **Next.js** – React-based framework for fast and scalable apps.  
 - **Tailwind CSS** – Utility-first CSS for styling.  
