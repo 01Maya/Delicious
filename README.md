@@ -36,4 +36,4 @@ https://delicious-rosy.vercel.app
 
 ---
 
-## Author
+## Author ✍🏻
